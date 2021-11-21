@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MajdStore/static/css/main.1286b849.chunk.css",
+    "main.js": "/MajdStore/static/js/main.a29a4aaa.chunk.js",
+    "main.js.map": "/MajdStore/static/js/main.a29a4aaa.chunk.js.map",
+    "runtime-main.js": "/MajdStore/static/js/runtime-main.dbf59b3f.js",
+    "runtime-main.js.map": "/MajdStore/static/js/runtime-main.dbf59b3f.js.map",
+    "static/css/2.fe62fa80.chunk.css": "/MajdStore/static/css/2.fe62fa80.chunk.css",
+    "static/js/2.538292a9.chunk.js": "/MajdStore/static/js/2.538292a9.chunk.js",
+    "static/js/2.538292a9.chunk.js.map": "/MajdStore/static/js/2.538292a9.chunk.js.map",
+    "index.html": "/MajdStore/index.html",
+    "precache-manifest.1df321cfe63873d6584519bcedad1257.js": "/MajdStore/precache-manifest.1df321cfe63873d6584519bcedad1257.js",
+    "service-worker.js": "/MajdStore/service-worker.js",
+    "static/css/2.fe62fa80.chunk.css.map": "/MajdStore/static/css/2.fe62fa80.chunk.css.map",
+    "static/css/main.1286b849.chunk.css.map": "/MajdStore/static/css/main.1286b849.chunk.css.map",
+    "static/js/2.538292a9.chunk.js.LICENSE.txt": "/MajdStore/static/js/2.538292a9.chunk.js.LICENSE.txt",
+    "static/media/icofont.min.css": "/MajdStore/static/media/icofont.f6ab04ae.woff",
+    "static/media/slick-theme.min.css": "/MajdStore/static/media/slickd41d.ced611da.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbf59b3f.js",
+    "static/css/2.fe62fa80.chunk.css",
+    "static/js/2.538292a9.chunk.js",
+    "static/css/main.1286b849.chunk.css",
+    "static/js/main.a29a4aaa.chunk.js"
+  ]
+}
