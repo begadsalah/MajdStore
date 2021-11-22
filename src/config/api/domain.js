@@ -1,5 +1,5 @@
 const domain = {
-  url: 'http://autoinstadm.com',
+  url: 'https://golanbook.com',
   storepath: window.location.pathname.replace('/store', ''),
 }
 export default domain
